@@ -1,0 +1,22 @@
+{
+  "name": "MyGPS",
+  "version": "0.9.0",
+  "keywords": "gps,GPRMC",
+  "description": "A new, simple Arduino GPRMC sentence parsing library",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/handiko/MyGPS.git"
+  },
+  "authors":
+  [
+    {
+       "name": "Handiko Gesang",
+       "email": "handikogesang@gmail.com",
+       "url": "https://handiko.github.io",
+       "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
