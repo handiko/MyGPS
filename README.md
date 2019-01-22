@@ -72,3 +72,15 @@ void loop()
   }
 }
 ```
+## TODO
+* Optimize the code (there is a lot of room for improvements!!)
+* Adding capabitilies for parsing other sentences
+* ...
+
+## Contributing
+1. Fork it [https://github.com/handiko/MyGPS/fork](https://github.com/handiko/MyGPS/fork)
+2. Create new branch (`git checkout -b myfeature`)
+3. Do some editing / create new feature
+4. Commit your works (`git commit -m "Adding some feature blah blah blah.."`)
+5. Push to the branch (`git push -u origin myfeature`)
+6. Create a new Pull Request
