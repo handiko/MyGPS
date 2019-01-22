@@ -72,6 +72,9 @@ void loop()
   }
 }
 ```
+On the Serial Monitor, you can examine the parsing results.
+![](./example.png)
+
 ## TODO
 * Optimize the code (there is a lot of room for improvements!!)
 * Adding capabitilies for parsing other sentences
