@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for mygps
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MyGPS	KEYWORD1
+GPSresults	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+gps_parse	KEYWORD2
+parse_rmc_time	KEYWORD2
+parse_rmc_valid	KEYWORD2
+parse_rmc_lat	KEYWORD2
+parse_rmc_NS	KEYWORD2
+parse_rmc_lon	KEYWORD2
+parse_rmc_EW	KEYWORD2
+parse_rmc_spd	KEYWORD2
+parse_rmc_cse	KEYWORD2
+parse_rmc_date	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
