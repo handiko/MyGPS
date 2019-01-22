@@ -55,7 +55,7 @@ void loop()
   GPSresults GPS = gps_parse(gps);
 
   if(GPS.gps_success)
-  {    From
+  {    
     sprintf(buff, "\n%s", GPS.gps_rmc);
     
     sprintf(buff, "%s \n GPS Time (HHMMSS): %s", buff, GPS.gps_time);
