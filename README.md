@@ -9,7 +9,7 @@ Parsing GPS GPRMC sentence from a GPS serial data, written in C.
 * Restart the Arduino IDE
 
 ## Usage
-```C
+```cpp
 // include this library
 #include <MyGPS.h>          
 //include software serial for creating the second serial line
@@ -28,7 +28,7 @@ GPS = gps_parse(gps);
 
 ## Example
 After installation, open your Arduino IDE. From **File**, click **Examples --> MyGPS --> GPS_gprmc_parser**
-```C
+```cpp
 #include <SoftwareSerial.h>
 #include <MyGPS.h>
 
